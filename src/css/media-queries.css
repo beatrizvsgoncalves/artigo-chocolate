@@ -225,6 +225,10 @@
 }
 
 @media screen and (max-width: 350px) {
+    main section {
+        padding: 0 1.1rem;
+    }
+
     main h2 {
         font-size: 1.5rem;
     }
@@ -260,6 +264,10 @@
     .lista-tipos {
         align-items: center;
         text-align: justify;
+    }
+
+    .lista-tipos li {
+        max-width: 14rem;
     }
 
     .alinhar-esquerda {
