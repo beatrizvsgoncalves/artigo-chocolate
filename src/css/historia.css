@@ -1,0 +1,15 @@
+#historia {
+    text-align: start;
+}
+
+#historia h2 {
+	padding-top: 2rem;
+}
+
+#historia img {
+    border-radius: .6rem;
+    float: right;
+    margin: 0 0 2rem 2rem;
+    min-width: 10rem;
+    width: 40%;
+}

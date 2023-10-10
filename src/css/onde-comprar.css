@@ -1,0 +1,31 @@
+#onde-comprar {
+	background: rgb(68, 55, 40) url("../imagens/loja-chocolate.jpg") center/cover no-repeat;
+    border-radius: 0 0 0.7rem 0.7rem;
+	max-height: 40rem;
+	padding: 0;
+}
+
+#texto-onde-comprar {
+	background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 0 0 0.7rem 0.7rem;
+	display: flex;
+	flex-direction: row;
+	gap: 3rem;
+	text-shadow: 1px 1px rgb(0, 0, 0);
+	width: 100%;
+}
+
+#texto-onde-comprar h2 {
+	color: rgb(255, 255, 255);
+	margin: auto;
+	padding: 4rem 2rem;
+	width: 20rem;
+}
+
+#texto-onde-comprar p {
+	color: rgb(255, 255, 255);
+	max-width: 30rem;
+	margin: auto;
+	padding: 2rem;
+	text-align: end;
+}

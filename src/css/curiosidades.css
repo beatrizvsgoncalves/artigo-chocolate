@@ -1,0 +1,19 @@
+.lista-curiosidades {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	gap: 2rem;
+}
+
+.lista-curiosidades li {
+	counter-increment: num-list;
+	max-width: 20rem;
+}
+
+#curiosidades h3 {
+	padding-bottom: 1rem;
+}
+
+#curiosidades p {
+	line-height: 1.6rem;
+}

@@ -1,0 +1,26 @@
+#marcas-famosas {
+	padding-bottom: 4rem;
+}
+
+.lista-marcas {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	gap: 2rem;
+}
+
+.lista-marcas li {
+	background-color: #ebe1dd;
+	border: 1px solid #c9c0bd;
+	border-radius: .8rem;
+	padding: 1rem;
+	width: 20rem;
+}
+
+#marcas-famosas h3 {
+	padding-bottom: .5rem;
+}
+
+#marcas-famosas p {
+	padding-bottom: 0;
+}

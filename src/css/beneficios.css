@@ -1,0 +1,21 @@
+.lista-beneficios {
+	align-items: start;
+	display: flex;
+	flex-direction: row;
+	gap: 3.4rem;
+	justify-content: space-between;
+}
+
+.lista-beneficios li {
+	max-width: 20rem;
+}
+
+#beneficios h3 {
+	display: inline-block;
+	font-size: 1.7rem;
+	padding-bottom: 1.3rem;
+}
+
+#beneficios p {
+	line-height: 1.6rem;
+}

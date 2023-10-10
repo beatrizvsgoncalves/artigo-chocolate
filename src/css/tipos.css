@@ -1,0 +1,24 @@
+.lista-tipos {
+	align-items: start;
+	display: flex;
+	flex-direction: row;
+	gap: 3.4rem;
+	justify-content: space-between;
+}
+
+.lista-tipos li {
+	width: 17rem;
+}
+
+#tipos img {
+	border-radius: .9rem;
+	width: 100%;
+}
+
+#tipos h3 {
+	padding: .9rem 0;
+}
+
+#tipos p {
+	line-height: 1.6rem;
+}
