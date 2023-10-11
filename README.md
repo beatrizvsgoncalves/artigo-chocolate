@@ -24,7 +24,7 @@
 
 ### Screenshot
 
-![](./src/imagens/apresentacao/20231010_200209.mp4)
+![](./src/imagens/apresentacao/captura-de-tela.gif)
 
 
 ### Links
